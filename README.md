@@ -43,12 +43,16 @@ Bootstrap 5 → estilos y componentes visuales.
 
 JavaScript (ES6) → lógica de cálculo, validaciones y manipulación del DOM.
 
-📂 Estructura del proyecto
-Código
-📁 EvaluadorAcademico
- ┣ 📄 index.html
- ┣ 📄 app.js
- ┗ 📄 README.md
+# Estructura del proyecto
+Taller_Interacciones_Web`
+
+```
+└── 📁 Taller_Interacciones_Web
+    ├── 📘 Informe_Taller_Chavarria_Dayana.docx
+    ├── 📝 README.md
+    ├── 📄 app.js
+    └── 🌐 index.html
+```
 
 # Uso del sistema
 Abrir index.html en el navegador.
