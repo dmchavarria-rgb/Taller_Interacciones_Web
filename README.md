@@ -48,7 +48,7 @@ Taller_Interacciones_Web`
 
 ```
 └── 📁 Taller_Interacciones_Web
-    ├── 📘 Informe_Taller_Chavarria_Dayana.docx
+    ├── 📕 Informe_Taller_Chavarria_Dayana.pdf
     ├── 📝 README.md
     ├── 📄 app.js
     └── 🌐 index.html
